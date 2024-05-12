@@ -1,0 +1,11 @@
+Mongodb
+user: adwarkenway
+pass: ew4lD5TJslidWpL9
+url: mongodb+srv://adwarkenway:<password>@mongodb2024.p1blrus.mongodb.net/?retryWrites=true&w=majority
+
+random.alanwake@gmail.com
+Alanwake123!@#
+
+Sendgridmail123!@#
+
+"start": "node dist/index.js"
